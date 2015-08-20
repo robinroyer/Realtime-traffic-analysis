@@ -1,4 +1,6 @@
-TP_Trafic
-=========
+#Realtime-traffic-analysis
 
-TP2 C++ Gestion trafic
+Realtime-traffic-analysis is a c++ program that analyses the evolution of the car traffic 
+of the city of Lyon
+
+... to be continued...
